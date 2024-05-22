@@ -1,8 +1,5 @@
 ****E-commerce Sales Analysis****
---------------------------------------------
 ________________
-**************************
-
 **𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:**
 
 • I explored sales data from top online stores like Amazon, Flipkart, Snapdeal, and India mart, focusing on furniture, office supplies, and technology.  
